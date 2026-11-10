@@ -22,14 +22,14 @@
 
 My reply here..
 
-
-| ----------- | ----------- |
+| h1 | h2|
+| -- | -- |
 | Header      | Title       |
 | Paragraph   | Text        |
 | 1 | 2 |
 
 
 | title 1 | title 2 |
-| --- 
+| --- | --- |
 | 1 | 2 |
 | 3 | 4 |
