@@ -27,3 +27,8 @@ My reply here..
 | Header      | Title       |
 | Paragraph   | Text        |
 | 1 | 2 |
+
+
+| title 1 | title 2 |
+| 1 | 2 |
+| 3 | 4 |
