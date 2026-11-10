@@ -21,3 +21,9 @@
 > this is a line from you.
 
 My reply here..
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| 1 | 2 |
