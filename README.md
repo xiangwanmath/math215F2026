@@ -5,7 +5,7 @@
 ### level 3...
 ---
 * item 1 *world*  **a word** 
-* item 2
+* item 2 _word_ __*word*__
   * item 2.1
   * item 2.2
     * bla
@@ -16,4 +16,8 @@
 
 1. something
 2. paper
-3. asdf 
+3. asdf
+
+> this is a line from you.
+
+My reply here..
